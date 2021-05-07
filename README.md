@@ -1,6 +1,6 @@
 # Drop-share
 
-For accessing the front end code, check file dropshare-clients  
+For accessing the front end code, check file DropShare-FrontEnd
 
 #live link -- https://jayesh37.github.io/DropShare/
 
