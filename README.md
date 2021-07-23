@@ -9,14 +9,14 @@ For accessing the front end code, check file DropShare-FrontEnd
 Home Page
 ![](screenshots/Client.png)
 
+Share
+![](screenshots/Share.png)
+
 Upload
 ![](screenshots/upload.png)
 
 Link
 ![](screenshots/link.png)
-
-Share
-![](screenshots/Share.png)
 
 Download
 ![](screenshots/download.png)
